@@ -96,11 +96,11 @@ These visualizations help convert raw data into **clear, interpretable insights*
 
 ## 📁 Project Structure
 Amcat_AMEO_Employement_analysis/
-│
-├── amcat_ameo.ipynb # Jupyter Notebook containing data cleaning, EDA, and analysis
-├── amcat_ameo.pptx # Project presentation
-├── amcat_data.csv # AMEO dataset used for analysis
-├── readme.md # Project documentation
+
+- amcat_ameo.ipynb      # Jupyter Notebook containing data cleaning, EDA, and analysis
+- amcat_ameo.pptx       # Project presentation
+- amcat_data.csv        # AMEO dataset used for analysis
+- readme.md             # Project documentation
 ---
 
 ## 💼 Business & Practical Impact
