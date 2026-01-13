@@ -90,7 +90,7 @@ The project includes:
 - Scatter plots for salary vs skill scores  
 - Stacked bar charts for gender-specialization analysis  
 
-These visualizations help convert raw data into **clear, interpretable insights**.
+These visualizations help convert raw data into **clear and interpretable insights**.
 
 ---
 
