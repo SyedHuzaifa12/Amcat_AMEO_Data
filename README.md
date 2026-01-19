@@ -28,7 +28,7 @@ The goal is to derive **data-driven insights** into salary trends, specializatio
 
 ### Key Attributes
 - Salary  
-- Job Designation & Job Role  
+- Job Designation and Job Role  
 - Job Location (City)  
 - Gender & Date of Birth  
 - Academic Scores (10th, 12th, College CGPA)  
